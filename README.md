@@ -1,13 +1,10 @@
-<html>
-        <boby>
-                
 
 
-
-        <h1>Hello, I'm DUSHIMIMANA Alexandre!</h1>
-        <p class="text-lg">I have been working as a Software Developer for almost 4 years now. During this time, I have had the opportunity to work for several companies such as Virtual Rwanda Technology, Royal Trust Company ltd, Z-tech ltd and many more.</p>
-           </boby>
-</html>
+         I'm DUSHIMIMANA Alexandre!
+        I have been working as a Software Developer for almost 4 years now. During this time, I have had the opportunity to work 
+        for several companies such as Virtual Rwanda Technology, 
+         Royal Trust Company ltd, Z-tech ltd and many more.
+         
 
 
 <!--
