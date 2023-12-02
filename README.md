@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, my name is DUSHIMIMANA Alexandre and I have been working as a Software Developer for almost 4 years now. During this time, I have had the opportunity to work for several companies such as Virtual Rwanda Technology, Royal Trust Company ltd, Z-tech ltd and many more.
 
 <!--
 **xander1a/xander1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
