@@ -74,24 +74,25 @@ I have been working as a Software Developer for almost 4 years now. During this 
   </a>
 
   <!-- New entries -->
-  <a href="https://www.picktoBlox.com" target="_blank" rel="noreferrer">
-    <img src="path-to-picktoBlox-icon" alt="picktoBlox" width="40" height="40"/>
-  </a>
-  <a href="https://www.etoys.com" target="_blank" rel="noreferrer">
-    <img src="path-to-etoys-icon" alt="etoys" width="40" height="40"/>
-  </a>
-  <a href="https://www.turtleart.com" target="_blank" rel="noreferrer">
-    <img src="path-to-turtleart-icon" alt="turtleart" width="40" height="40"/>
-  </a>
-  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
-    <img src="path-to-raspberrypi-icon" alt="raspberrypi" width="40" height="40"/>
-  </a>
-  <a href="https://www.proteus.com" target="_blank" rel="noreferrer">
-    <img src="path-to-proteus-icon" alt="proteus" width="40" height="40"/>
-  </a>
-  <a href="https://www.eaglecard.com" target="_blank" rel="noreferrer">
-    <img src="path-to-eaglecard-icon" alt="eaglecard" width="40" height="40"/>
-  </a>
+  <!-- New entries with placeholder text for image source paths -->
+<a href="https://www.picktoBlox.com" target="_blank" rel="noreferrer">
+  <img src="path-to-picktoBlox-icon" alt="picktoBlox" width="40" height="40"/>
+</a>
+<a href="https://www.etoys.com" target="_blank" rel="noreferrer">
+  <img src="path-to-etoys-icon" alt="etoys" width="40" height="40"/>
+</a>
+<a href="https://www.turtleart.com" target="_blank" rel="noreferrer">
+  <img src="path-to-turtleart-icon" alt="turtleart" width="40" height="40"/>
+</a>
+<a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
+  <img src="path-to-raspberrypi-icon" alt="raspberrypi" width="40" height="40"/>
+</a>
+<a href="https://www.proteus.com" target="_blank" rel="noreferrer">
+  <img src="path-to-proteus-icon" alt="proteus" width="40" height="40"/>
+</a>
+<a href="https://www.eaglecard.com" target="_blank" rel="noreferrer">
+  <img src="path-to-eaglecard-icon" alt="eaglecard" width="40" height="40"/>
+</a>
 </p>
 
  <h2 align="center">My Github Stats</h2>
