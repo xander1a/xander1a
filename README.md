@@ -82,7 +82,7 @@ I have been working as a Software Developer for almost 4 years now. During this 
   <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.squeakland.Etoys.png" alt="etoys" width="40" height="40"/>
 </a>
 <a href="https://www.turtleart.com" target="_blank" rel="noreferrer">
-  <img src="http://archive.flossmanuals.net/http://en.flossmanuals.net/floss/pub/OLPC_simple/TuteLearningWithTurtleArt/.resized_400x307_Turtle_Art_img_1.jpg" alt="turtleart" width="40" height="40"/>
+  <img src="https://img.informer.com/icons/png/48/2941/2941062.png" alt="turtleart" width="40" height="40"/>
 </a>
 <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-png-transparent.png" alt="raspberrypi" width="40" height="40"/>
@@ -91,7 +91,7 @@ I have been working as a Software Developer for almost 4 years now. During this 
   <img src="https://scontent.fkgl4-1.fna.fbcdn.net/v/t39.30808-1/300094346_198610692512859_1338722529493020498_n.jpg?stp=c6.0.120.120a_cp0_dst-jpg_e15_p120x120_q65&_nc_cat=111&ccb=1-7&_nc_sid=4da83f&_nc_ohc=oT31uzjDdhIAX9Uxz0W&_nc_ht=scontent.fkgl4-1.fna&oh=00_AfAGZQmnMm9K5rlrrz0AC2uBs7UQNoI_JDp5qI9tFYLvVQ&oe=65736683" alt="proteus" width="40" height="40"/>
 </a>
 <a href="https://www.eaglecard.com" target="_blank" rel="noreferrer">
-  <img src="https://www.snapeda.com/static/img/eda/eagle.png" alt="eaglecard" width="40" height="40"/>
+  <img src="https://www.snapeda.com/static/img/eda/eagle.png" alt="eaglecard" width="80" height="40"/>
 </a>
 </p>
 
