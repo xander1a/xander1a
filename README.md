@@ -1,5 +1,7 @@
 I'm DUSHIMIMANA Alexandre!
 I have been working as a Software Developer for almost 4 years now. During this time, I have had the opportunity to work for several companies such as Virtual Rwanda Technology,  Royal Trust Company ltd, Z-tech ltd and many more.
+
+In my role as a Software Developer, I have honed my skills in designing and implementing innovative solutions for diverse organizations, including Virtual Rwanda Technology, Royal Trust Company Ltd, and Z-tech Ltd. Over the past four years, I have cultivated a deep understanding of software development principles and practices, collaborating with cross-functional teams to deliver high-quality products and solutions. My experience spans a range of industries, allowing me to adapt to different challenges and technologies. From contributing to Virtual Rwanda Technology's cutting-edge projects to enhancing the technological infrastructure at Royal Trust Company Ltd and Z-tech Ltd, I have consistently demonstrated my commitment to creating robust and efficient software solutions. As I continue to evolve in this dynamic field, I am enthusiastic about leveraging my skills and experiences to contribute to future projects and drive innovation in the world of software development.
          
 
 
